@@ -79,6 +79,17 @@ This is the start of comprehensive experimental projects. Welcome to your contri
 
 Continuing editing...
 
+#### <strong>Upcoming work</strong>
+- [x] Finish basic setup configurations
+- [ ] Unit Test
+- [ ] Automation Test Framework
+- [ ] CI/CD (jenkins)
+- [ ] Deploy to cloud server (AWS)
+- [ ] Backend Databse & framework
+- [ ] TBD...
+
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
